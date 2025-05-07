@@ -1,1 +1,1 @@
-Compiler Design Project _ 6th Sem
+COMPILER DESIGN PROJECT -- 6TH SEMESTER
