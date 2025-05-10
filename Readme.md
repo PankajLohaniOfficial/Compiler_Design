@@ -1,1 +1,14 @@
-COMPILER DESIGN PROJECT -- 6TH SEMESTER
+# COMPILER - DESIGN PROJECT
+---
+
+## ✨ Features
+
+- 🖥️ 
+- 🔒 
+- 🧾 
+
+---
+
+## 📸 Screenshots
+
+> _Coming soon!_ (You can insert screenshots of your app here.)    
